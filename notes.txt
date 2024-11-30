@@ -5,3 +5,5 @@ bitbucket
 gitlab
 
 staging area or index
+
+These are new changes
