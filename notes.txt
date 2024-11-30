@@ -1,0 +1,7 @@
+git initialized
+
+git init
+bitbucket
+gitlab
+
+staging area or index
